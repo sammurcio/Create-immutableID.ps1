@@ -15,9 +15,8 @@ Single user output is output to the console, multi-user is output to a CSV file.
 
 ## PARAMETERS
 
-- -PropertyValue
+- -Property
 
-The value to use to locate AD user(s)
 (Optional) Specifies what AD user property to match its value with the value specified in the PropertyValue paramenter.
 
 - -PropertyValue
@@ -37,21 +36,30 @@ Returns the immutableID for an AD user who's UPN is smurcio@domain.com
 
 > .\Create-ImmutableID.ps1 -Property UserPrincipalName -Propertyvalue * -Filename IDs_All_users.csv
 
-Returns a report with the immutableIDs for all users in the AD forest, saves report on desktop with specified name.
+Returns a report with the immutableIDs for all users in the AD forest, saves report as specified.
 
-.LINK
+## LINK
 
+https://github.com/sammurcio/Create-immutableID.ps1
 
-.NOTES
+## NOTES
+
 Written by: Samuel Murcio
 
-Find me on:
+## Find me on:
+
 * LinkedIn:	https://www.linkedin.com/in/samuelmurcio
+
 * Github:	https://github.com/cunninghamp
 
-Change Log
+## Change Log
+
 V1.00, 08/02/2015 - Initial version
+
 V1.01, 09/28/2012 - Added filename parameter
+
 V1.02, 10/16/2012 - Added functionality to search across all child domains within a forest
+
 V1.03, 10/17/2012 - Added visibile progress bar
-V1.05, 06/12/2016 - Improved search filter when specifying wildcard for propertyvalue
+
+V1.04, 06/12/2016 - Improved search filter when specifying wildcard for propertyvalue
