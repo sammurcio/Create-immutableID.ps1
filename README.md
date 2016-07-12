@@ -46,6 +46,8 @@ https://github.com/sammurcio/Create-immutableID.ps1
 
 Written by: Samuel Murcio
 
+Requires: version 3 and AD PS Module
+
 ## Find me on:
 
 * LinkedIn:	https://www.linkedin.com/in/samuelmurcio
