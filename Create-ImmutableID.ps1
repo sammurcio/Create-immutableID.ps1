@@ -34,8 +34,10 @@ https://github.com/sammurcio/Create-immutableID.ps1
 Written by: Samuel Murcio
 
 Find me on:
-* LinkedIn:	https://www.linkedin.com/in/samuelmurcio
-* Github:	https://github.com/sammurcio
+* LinkedIn:	http://lnked.in/murcio/
+* Github:	https://git.io/v6kUy
+* Blog:		http://msjunkies.com/
+* Email:	sam@murico.tech
 
 Change Log
 V1.00, 08/02/2015 - Initial version
