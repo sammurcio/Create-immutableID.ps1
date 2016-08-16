@@ -50,9 +50,13 @@ Requires: version 3 and AD PS Module
 
 ## Find me on:
 
-* LinkedIn:	https://www.linkedin.com/in/samuelmurcio
+* LinkedIn:	http://lnked.in/murcio
 
-* Github:	https://github.com/cunninghamp
+* Github:	https://git.io/v6kUy
+
+* Blog:	http://msjunkies.com/
+
+* Email:	sam@murcio.tech
 
 ## Change Log
 
